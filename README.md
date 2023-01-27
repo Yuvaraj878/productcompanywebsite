@@ -435,6 +435,7 @@ function w3_close() {
 ![output](./out3.png)
 ### Team page:
 ![output](./out4.png)
+![output](./out%20new.png)
 ### Work Page:
 ![output](./out5.png)
 ![output](./out6.png)
